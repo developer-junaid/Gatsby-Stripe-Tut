@@ -1,12 +1,10 @@
 ## Gatsby Stripe Checkout Tutorial | 2021
 
----
 
 ### Learn Stripe checkout integration with gatsby step by step
 
 ## Links
 
----
 
 #### :link: [Video Tutorial](https://youtu.be/6-D9YWYoMf0)
 
@@ -14,11 +12,9 @@
 
 ## Screenshots
 
----
 
 <img src="./images/checkout-form.png">
 
----
 
 ## Tech Stack
 
