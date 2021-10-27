@@ -4,8 +4,8 @@ import React from "react"
 import "../styles/global.css"
 
 // Import
-import ProductList from "../components/ProductList"
+import ServerCheckout from "../components/ServerCheckout"
 
 export default function Home() {
-  return <ProductList />
+  return <ServerCheckout />
 }
