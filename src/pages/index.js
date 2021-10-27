@@ -1,8 +1,11 @@
 import React from "react"
 
+// Styles
+import "../styles/global.css"
+
 // Import
-import StripeCheckout from "./components/StripeCheckout"
+import ProductList from "../components/ProductList"
 
 export default function Home() {
-  return <StripeCheckout />
+  return <ProductList />
 }
