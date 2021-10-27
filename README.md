@@ -17,7 +17,10 @@
 ##### :link: Video Tutorial => https://youtu.be/AF2k-AUc6bs
 
 ---
+### Part 3 : Stripe Checkout using Netlify Serverless Functions
 
+##### :link: Video Tutorial => https://youtu.be/V6UkBLQVVmY
+---
 ## Screenshots
 <p align="center">
 <img src="./images/checkout-form.png">
