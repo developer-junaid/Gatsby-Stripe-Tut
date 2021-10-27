@@ -19,10 +19,10 @@
 ---
 
 ## Screenshots
-
+<p align="center">
 <img src="./images/checkout-form.png">
 <img src="./images/products.png">
-
+</p>
 ## Tech Stack
 
 - Gatsby
