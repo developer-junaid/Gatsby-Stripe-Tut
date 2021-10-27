@@ -5,10 +5,15 @@
 
 ## Links
 
+### Part 1 : Integrating Stripe Checkout
 
-#### :link: [Video Tutorial](https://youtu.be/6-D9YWYoMf0)
+##### :link: [Video Tutorial](https://youtu.be/6-D9YWYoMf0)
+##### :link: [Medium Blog](https://medium.com/@developer-junaid/quickstart-gatsby-stripe-checkout-a661dde1a98c)
+---
+### Part 2 : Getting Products from Stripe and Individual Checkout
+##### :link: [Video Tutorial]()
+---
 
-#### :link: [Medium Blog](https://medium.com/@developer-junaid/quickstart-gatsby-stripe-checkout-a661dde1a98c)
 
 ## Screenshots
 
